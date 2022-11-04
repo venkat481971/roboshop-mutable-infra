@@ -1,3 +1,4 @@
 module "vpc" {
-  source = "github.com/venkat481971/tf-module-vpc"
+  source   = "./vendor/modules/vpc"
+  vpc_cidr = var.vpc_cidr
 }
