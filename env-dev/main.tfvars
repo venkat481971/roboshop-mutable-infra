@@ -31,8 +31,8 @@ vpc = {
 }
 
 management_vpc = {
-  vpc_id      = "vpc-075435ce9af088bfa"
-  route_table = "rtb-032742c71bcb7a780"
+  vpc_id      = "vpc-04324b3ef3bcd0c9f"
+  route_table = "rtb-093c6a5b7f1f9e450"
   vpc_cidr    = "172.31.0.0/16"
 }
 
